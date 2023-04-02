@@ -2,7 +2,7 @@ export default [
     {
         "_id": "123",
         "topic": "Space",
-        "userName": "SpaceX",
+        "username": "SpaceX",
         "handle": "@spacex",
         "time": "2h",
         "image": "spacex.png",
