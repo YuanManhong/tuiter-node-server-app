@@ -26,6 +26,7 @@
   "homepage": "https://github.com/YuanManhong/tuiter-node-server-app#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
   }
 }
